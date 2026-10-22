@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA Rewrite Rule
+# This ensures that any direct request or page refresh on clean URLs (e.g. /domain/algebra-functions)
+# serves index.html with a 200 status code so the client-side router can handle it without 404.
+/* /index.html 200

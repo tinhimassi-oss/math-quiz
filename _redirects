@@ -1,0 +1,4 @@
+# Cloudflare Pages SPA Rewrite Rule
+# This rule serves index.html with a 200 HTTP status code for all clean URLs,
+# preventing 404 errors when users or Googlebot access deep links directly.
+/*    /index.html   200

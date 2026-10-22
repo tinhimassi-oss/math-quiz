@@ -1,0 +1,8 @@
+{
+  "name": "النهائية موقع كويزات الرياضيات",
+  "description": "منصة عصرية وهادئة مريحة للعين لتصفح مجالات الرياضيات وتصنيفاتها الفرعية، مهيأة لكويزات وألغاز تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
